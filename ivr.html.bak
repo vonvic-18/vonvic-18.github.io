@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+
+
+
+
+<!-- Mirrored from max-themes.net/demos/apzo/apzo/cloud-solutions.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Dec 2021 19:10:16 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>IVR & TOLLFREE</title>
+
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/fontawesome/font-awesome.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/elegant/elegant-font.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/ionicons/ionicons.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/simpleline/simpleline.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/include/css/page-builder.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/revslider/public/assets/css/rs6.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/google-map-plugin/assets/css/frontend.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/style-core.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/apzo-style-custom.css' type='text/css' media='all' />
+
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=vietnamese%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Clatin&amp;display=optional&amp;ver=5.3.2' type='text/css' media='all' />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:600%2C400" rel="stylesheet" property="stylesheet" media="all" type="text/css">
+
+</head>
+
+<body class="home page-template-default page page-id-8230 theme-apzo gdlr-core-body woocommerce-no-js apzo-body apzo-body-front apzo-full  apzo-with-sticky-navigation  apzo-blockquote-style-1 gdlr-core-link-to-lightbox" data-home-url="#">
+    <div class="apzo-mobile-header-wrap">
+        <div class="apzo-mobile-header apzo-header-background apzo-style-slide apzo-sticky-mobile-navigation " id="apzo-mobile-header">
+            <div class="apzo-mobile-header-container apzo-container clearfix">
+                <div class="apzo-logo  apzo-item-pdlr">
+                    <div class="apzo-logo-inner">
+                         </div>
+                </div>
+				<div class="apzo-logo-inner">
+                                    <a class="" href="index.html"><img src="upload/final-logo-2-removebg-preview-removebg-preview.png" alt="" width="180" height="53" title="logo-saas-clean" /></a>
+                                </div>
+                <div class="apzo-mobile-menu-right">
+                  
+                    <div class="apzo-top-search-wrap">
+                        <div class="apzo-top-search-close"></div>
+
+                        <div class="apzo-top-search-row">
+                            <div class="apzo-top-search-cell">
+                                <form role="search" method="get" class="search-form" action="#">
+                                    <input type="text" class="search-field apzo-title-font" placeholder="Search..." value="" name="s">
+                                    <div class="apzo-top-search-submit"><i class="fa fa-search"></i></div>
+                                    <input type="submit" class="search-submit" value="Search">
+                                    <div class="apzo-top-search-close"><i class="icon_close"></i></div>
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+ 	
+                    <div class="apzo-mobile-menu"><a class="apzo-mm-menu-button apzo-mobile-menu-button apzo-mobile-button-hamburger" href="#apzo-mobile-menu"><span></span></a>
+					
+                        <div class="apzo-mm-menu-wrap apzo-navigation-font" id="apzo-mobile-menu" data-slide="right">
+                            <ul id="menu-main-navigation" class="m-menu">
+                                <li class="menu-item menu-item-home current-menu-item current_page_item"><a href="index.html" aria-current="page">Home</a></li>
+									<li class="menu-item menu-item-has-children"><a href="about-us.html">About US</a>
+                                  
+                                </li>
+								<li class="menu-item"><a href="#">Telecome Services</a>
+                                    <ul class="sub-menu">
+										<li class="menu-item"><a href="bulksms.html">Bulk SMS</a></li>
+										<li class="menu-item"><a href="missedcall.html">Missed Call</a></li>
+										<li class="menu-item"><a href="voicecall1.html">Voice Call</a></li>
+										<li class="menu-item"><a href="ivr.html">IVR & Tollfree</a></li>
+										<li class="menu-item"><a href="whatsapp.html">Whatsapp Messaging</a></li>
+									</ul>
+								</li>
+								<li class="menu-item"><a href="#">Software Service</a>
+                                    <ul class="sub-menu">
+										<li class="menu-item"><a href="#">SMS Aggregator Application</a></li>
+										<li class="menu-item"><a href="#">Voice Call Application</a></li>
+										<li class="menu-item"><a href="#">E-commerce Software</a></li>
+										<li class="menu-item"><a href="#">Banking Management Software</a></li>
+										<li class="menu-item"><a href="website-designing.html">Website Designing</a></li>
+										<li class="menu-item"><a href="#">Mobile App Development</a></li>
+									</ul>
+								</li>
+								<li class="menu-item"><a href="technology.html">Technology</a>
+                                    
+								</li>
+                                
+								<li class="menu-item"><a href="http://45.113.189.101/Account/Login">Login</a>
+                                    
+								</li>
+                              
+							</ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="apzo-body-outer-wrapper ">
+        <div class="apzo-body-wrapper clearfix  apzo-with-transparent-header apzo-with-frame">
+            <div class="apzo-header-background-transparent">
+                <div class="apzo-top-bar">
+                    <div class="apzo-top-bar-background"></div>
+                    <div class="apzo-top-bar-container apzo-top-bar-full ">
+                        <div class="apzo-top-bar-container-inner clearfix">
+                            <div class="apzo-top-bar-left apzo-item-pdlr"><i class="fa fa-envelope-open" id="i_064f_0"></i><a href="mailto:info@vonvic.in"><span class="__cf_email__" >info@vonvic.in</span></a>
+                                <i class="fa fa-phone" id="i_064f_1"></i><a href="tel:9979952266">9979-952-266</a></div>
+                            <div class="apzo-top-bar-right apzo-item-pdlr">
+                                <div class="apzo-top-bar-right-text"></div>
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <header class="apzo-header-wrap apzo-header-style-plain  apzo-style-center-menu apzo-sticky-navigation apzo-style-slide" data-navigation-offset="75px">
+                    <div class="apzo-header-background"></div>
+                     <div class="apzo-header-container-inner clearfix">
+                            <div class="apzo-logo  apzo-item-pdlr">
+                                <div class="apzo-logo-inner">
+                                    <a class="" href="index.html"><img src="upload/final-logo-2-removebg-preview-removebg-preview.png" alt="" width="180" height="53" title="logo-saas-clean" /></a>
+                                </div>
+                            </div>
+                            <div class="apzo-navigation apzo-item-pdlr clearfix ">
+                                <div class="apzo-main-menu" id="apzo-main-menu">
+                                    <ul id="menu-main-navigation-1" class="sf-menu">
+                                        <li class="menu-item menu-item-home current-menu-item page_item page-item-8230 current_page_item apzo-normal-menu"><a href="index.html">Home</a></li>
+										<li class="menu-item menu-item-has-children apzo-normal-menu"><a href="about-us.html" class="sf-with-ul-pre">About US</a>
+                                          
+                                        </li>
+                                        <li class="menu-item menu-item-has-children apzo-normal-menu"><a href="#" class="sf-with-ul-pre">Services</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item">Telecome
+												<ul class="sub-menu">
+                                                <li class="menu-item"><a href="bulksms.html">Bulk SMS</a></li>
+                                        <li class="menu-item"><a href="missedcall.html">Missed Call</a></li>
+                                        <li class="menu-item"><a href="voicecall1.html">Voice Call</a></li>
+                                        <li class="menu-item"><a href="ivr.html">IVR & Tollfree</a></li>
+                                        <li class="menu-item"><a href="whatsapp.html">Whatsapp Messaging</a></li>
+										<li class="menu-item"><a href="website-designing.html">Website Designing</a></li>
+                                        <li class="menu-item"><a href="#">Mobile App Development</a></li>
+                                       
+                                            </ul></li>
+                                        <li class="menu-item">Software
+										<ul class="sub-menu">
+                                                <li class="menu-item"><a href="#">SMS Aggregator Application</a></li>
+                                        <li class="menu-item"><a href="#">Voice Call Application</a></li>
+                                        <li class="menu-item"><a href="#">E-commerce Software</a></li>
+                                        <li class="menu-item"><a href="#">Banking Management Software</a></li>
+										</ul></li>
+                                        
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item menu-item-has-children apzo-normal-menu"><a href="technology.html" class="sf-with-ul-pre">Technology</a>
+                                            
+                                        </li>
+										
+										
+										<li class="menu-item menu-item-has-children apzo-normal-menu"><a href="http://45.113.189.101/Account/Login" class="sf-with-ul-pre">Login</a>
+                                          
+                                        </li>
+                                       
+                                    </ul>
+                                    <div class="apzo-navigation-slide-bar  apzo-navigation-slide-bar-style-dot" id="apzo-navigation-slide-bar"></div>
+                                </div>
+                                <div class="apzo-main-menu-right-wrap clearfix  apzo-item-mglr apzo-navigation-top">
+                                   
+                                    <div class="apzo-top-search-wrap">
+                                        <div class="apzo-top-search-close"></div>
+
+                                        <div class="apzo-top-search-row">
+                                            <div class="apzo-top-search-cell">
+                                                <form role="search" method="get" class="search-form" action="#">
+                                                    <input type="text" class="search-field apzo-title-font" placeholder="Search..." value="" name="s">
+                                                    <div class="apzo-top-search-submit"><i class="fa fa-search"></i></div>
+                                                    <input type="submit" class="search-submit" value="Search">
+                                                    <div class="apzo-top-search-close"><i class="icon_close"></i></div>
+                                                </form>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <a class="apzo-main-menu-right-button apzo-style-round" href="pricing.html" target="_self">Purchase Now</a></div>
+                            </div>
+                            <!-- apzo-navigation -->
+
+                        </div>
+                        <!-- apzo-header-inner -->
+                    </div>
+                    <!-- apzo-header-container -->
+                </header>
+                <!-- header -->
+            </div>
+
+            <div class="apzo-page-title-wrap  apzo-style-custom apzo-center-align">
+                <div class="apzo-header-transparent-substitute"></div>
+                <div class="apzo-page-title-overlay"></div>
+                <div class="apzo-page-title-container apzo-container">
+                   <!-- <div style="background-image: url(upload/vc-design2-removebg-preview.png) ;background-repeat: repeat ;background-position: top right ;">-->
+					<div class="apzo-page-title-content apzo-item-pdlr">
+                        <h1 class="apzo-page-title">IVR & Tollfree</h1>
+                        <div class="apzo-page-caption">Use Vonvic's IVR System to Connect your Business's Toll-Free Number.</div>
+                    </div>
+                    <!--</div>-->
+                </div>
+            </div>
+            <div class="apzo-page-wrapper" id="apzo-page-wrapper">
+                <div class="gdlr-core-page-builder-body">
+                    <div class="gdlr-core-pbf-sidebar-wrapper ">
+                        <div class="gdlr-core-pbf-sidebar-container gdlr-core-line-height-0 clearfix gdlr-core-js gdlr-core-container">
+                            <div class="gdlr-core-pbf-sidebar-content  gdlr-core-column-45 gdlr-core-pbf-sidebar-padding gdlr-core-line-height gdlr-core-column-extend-left" style="padding: 60px 0px 10px 0px;">
+                                <div class="gdlr-core-pbf-sidebar-content-inner">
+                                    <div class="gdlr-core-pbf-element">
+                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
+                                            <div class="gdlr-core-title-item-title-wrap ">
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;color: #101010 ;">What is an IVR Solution?<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                        </div>
+                                    </div>
+                                    <div class="gdlr-core-pbf-element">
+                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                            <div class="gdlr-core-text-box-item-content" style="font-size: 17px ;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #8a8a8a ;">
+                                                <p>IVR stands for Interactive Voice Response and is an automated call management solution that initiates communication with customers with a personalized greeting. It is a technology that allows a pre-recorded voice to interact through voice DTMF tones.</p> 
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </div>
+									<h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 34px ;font-weight: 600 ;text-align:center;letter-spacing: 0px ;text-transform: none ;color: #101010 ;">IVR Service Features<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                        
+                                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-98525">
+                                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-background-wrap"></div>
+                                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                                <div class="gdlr-core-pbf-element">
+                                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-right: 10px;padding-bottom: 30px;">
+                                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 15px;"><img src="upload/ivr-1.svg" alt="" width="67" height="67" title="icon-1" /></div>
+                                                        <div class="gdlr-core-column-service-content-wrapper">
+                                                            <div class="gdlr-core-column-service-title-wrap">
+                                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 600 ;text-transform: none ;">Multi-Level IVR</h3></div>
+                                                            <div class="gdlr-core-column-service-content" style="font-size: 16px ;font-weight: 400 ;text-transform: none ;">
+                                                                <p>Create multi levels in your IVR and configure every level separately with intelligently-designed call flows.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--<div class="gdlr-core-pbf-column gdlr-core-column-30">
+                                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                                <div class="gdlr-core-pbf-element">
+                                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-right: 10px;padding-bottom: 30px;">
+                                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 15px;"><img src="upload/ic-2.png" alt="" width="67" height="67" title="icon-2" /></div>
+                                                        <div class="gdlr-core-column-service-content-wrapper">
+                                                            <div class="gdlr-core-column-service-title-wrap">
+                                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 600 ;text-transform: none ;">SMPP Connectivity</h3></div>
+                                                            <div class="gdlr-core-column-service-content" style="font-size: 16px ;font-weight: 400 ;text-transform: none ;">
+                                                                <p>Have a large volume of SMS traffic to be sent to your customers? Then the best way to opt for it is the SMPP Gateway connectivity from Butterfly Technology. </p>
+                                                                <p>If you are an aggregator and have a SMPP client in your application, you can connect our SMPP Gateway and start sending SMS with no limitation.	</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>-->	
+                                    <div class="gdlr-core-pbf-column gdlr-core-column-30">
+                                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                                <div class="gdlr-core-pbf-element">
+                                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-right: 10px;padding-bottom: 30px;">
+                                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 15px;"><img src="upload/ivr-2.png" alt="" width="67" height="67" title="icon-3" /></div>
+                                                        <div class="gdlr-core-column-service-content-wrapper">
+                                                            <div class="gdlr-core-column-service-title-wrap">
+                                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 600 ;text-transform: none ;">Unlimited Call Recording</h3></div>
+                                                            <div class="gdlr-core-column-service-content" style="font-size: 16px ;font-weight: 400 ;text-transform: none ;">
+                                                                <p>Automated & Unlimited call recording helps to keep a tab on every customer conversation.</p>
+                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="gdlr-core-pbf-column gdlr-core-column-30  gdlr-core-column-first">
+                                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                                <div class="gdlr-core-pbf-element">
+                                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-right: 10px;padding-bottom: 30px;">
+                                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 15px;"><img src="upload/ivr-3.png" alt="" width="67" height="67" title="icon-4-1" /></div>
+                                                        <div class="gdlr-core-column-service-content-wrapper">
+                                                            <div class="gdlr-core-column-service-title-wrap">
+                                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 600 ;text-transform: none ;">Intelligent Call Routing</h3></div>
+                                                            <div class="gdlr-core-column-service-content" style="font-size: 16px ;font-weight: 400 ;text-transform: none ;">
+                                                                <p>Route every caller to the right department & agent and eliminate long call queues.	</p>
+                                                                 </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+									<div class="gdlr-core-pbf-column gdlr-core-column-30 ">
+                                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                                <div class="gdlr-core-pbf-element">
+                                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-right: 10px;padding-bottom: 30px;">
+                                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 15px;"><img src="upload/ivr-4.png" alt="" width="67" height="67" title="icon-3" /></div>
+                                                        <div class="gdlr-core-column-service-content-wrapper">
+                                                            <div class="gdlr-core-column-service-title-wrap">
+                                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 600 ;text-transform: none ;">Professional IVR Recording</h3></div>
+                                                            <div class="gdlr-core-column-service-content" style="font-size: 16px ;font-weight: 400 ;text-transform: none ;">
+                                                                <p>We provide high quality IVR recordings through our specialised and dedicated voice over professionals.</p>
+                                                                 </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
+                                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                                <div class="gdlr-core-pbf-element">
+                                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-no-caption gdlr-core-item-pdlr" style="padding-right: 10px;padding-bottom: 30px;">
+                                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" style="margin-top: 15px;"><img src="upload/ic-6.png" alt="" width="67" height="67" title="icon-4-1" /></div>
+                                                        <div class="gdlr-core-column-service-content-wrapper">
+                                                            <div class="gdlr-core-column-service-title-wrap">
+                                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 21px ;font-weight: 600 ;text-transform: none ;">SMS & Email Alerts</h3></div>
+                                                            <div class="gdlr-core-column-service-content" style="font-size: 16px ;font-weight: 400 ;text-transform: none ;">
+                                                                <p>Get instant SMS & email notification for every call your agent misses.</p>
+															</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+									
+                                </div>
+                            </div>
+                           
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 00px 0px;" id="gdlr-core-wrapper-1">
+                        <div class="gdlr-core-pbf-background-wrap">
+                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/bg-service-2-1.png) ;background-repeat: no-repeat ;background-position: top center ;" data-parallax-speed="0"></div>
+                        </div>
+                       
+							
+							<div>
+	<
+                    
+                   
+                    
+                </div>
+            </div>				
+					
+					</div>		
+							
+							
+                                                       
+										<h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 54px ;font-weight: 600 ;letter-spacing: 0px ;text-align:center;text-transform: none ;color: #101010 ;"><b>Get the most from our SMS Platform</b><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3>
+													
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first" id="gdlr-core-column-22956">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 0px;padding: 100px 40px 70px 50px;" data-sync-height="h1" data-sync-height-center>
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                             		
+											<div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/d-6-r.png) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                            
+										</div>
+										
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 51px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;"><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+														<p style="font-size: 35px ;font-weight: 400 ;letter-spacing: 0px ;text-align:center;text-transform: none ;color: #000000 ;"><b>Get started in minutes</b></p>
+                                                        <p style="font-size: 20px ;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">Our easy to use interface will get you started in minutes, so that you can start texting your customers.</p>
+												</div>
+                                            </div>
+                                            <!--<div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 25px ;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>-->
+											
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-hide-in-mobile" id="gdlr-core-column-72793">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 50px 40px 0px;padding: 194px 0px 194px 0px;" data-sync-height="h1">
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/img-port9-1.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                           </div>
+										
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first gdlr-core-hide-in-mobile" id="gdlr-core-column-53988">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin:  0px 0px 0px 50px;padding: 194px 0px 194px 0px;" data-sync-height="h1">
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/img42.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                             </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
+                                    </div>
+
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20" id="gdlr-core-column-30926">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 40px 0px;padding: 100px 40px 70px 50px;" data-sync-height="h1" data-sync-height-center>
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/d-6.png) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 51px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;"><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 35px ;text-align:center;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        <p><b>Conversation With Certainty</b></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+											 <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 20px ;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        <p>Your Data is Protected and secured with us, so that you can have a great user experience without compromising. Now keep your customers connected and protected.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first" id="gdlr-core-column-72398">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px \0px;padding: 100px 40px 70px 50px;" data-sync-height="h1" data-sync-height-center>
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/d-6-r.png) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 51px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;"><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 35px ;text-align:center;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        <p><b>By Developers for Developers</b></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+											
+											<div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 20px ;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        <p>Quickly bind our APIs in 5 minute in the language of your choice with the help of our clear tutorials. Enable your application with SMS in minutes with our APIs.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-hide-in-mobile" id="gdlr-core-column-30775">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 50px 50px 0px;padding: 194px 0px 194px 0px;" data-sync-height="h1">
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/img46.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
+                                    </div>
+                                </div>
+								
+								 <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first gdlr-core-hide-in-mobile" id="gdlr-core-column-53988">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 50px;padding: 194px 0px 194px 0px;" data-sync-height="h1">
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/img-111.png) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20" id="gdlr-core-column-30926">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 40px 0px;padding: 100px 40px 70px 50px;" data-sync-height="h1" data-sync-height-center>
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/d-6.png) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 51px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;"><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 35px ;text-align:center;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        <p><b>Telecom Capabilities</b></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+											 <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 20px ;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        <p>Communicate with everyone in the world with a single platform.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+								
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first" id="gdlr-core-column-72398">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 40px 0px;padding: 100px 40px 70px 50px;" data-sync-height="h1" data-sync-height-center>
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/d-6-r.png) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 51px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;"><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 35px ;text-align:center;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        <p><b>Adaptive Routing</b></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+											
+											<div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 20px ;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        <p>Our platform continuously monitors the routes for delivering messages and selects the best route based on real time.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-hide-in-mobile" id="gdlr-core-column-30775">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 50px 50px 0px;padding: 194px 0px 194px 0px;" data-sync-height="h1">
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/adaptive-routing.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
+                                    </div>
+                                </div>
+									
+								<div class="gdlr-core-pbf-column gdlr-core-column-40 gdlr-core-column-first gdlr-core-hide-in-mobile" id="gdlr-core-column-53988">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 0px 50px;padding: 194px 0px 194px 0px;" data-sync-height="h1">
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/quality-engine.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20" id="gdlr-core-column-30926">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: 0px 0px 40px 0px;padding: 100px 40px 70px 50px;" data-sync-height="h1" data-sync-height-center>
+                                        <div class="gdlr-core-pbf-background-wrap" style="border-radius: 8px 8px 8px 8px;-moz-border-radius: 8px 8px 8px 8px;-webkit-border-radius: 8px 8px 8px 8px;">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/d-6.png) ;background-size: cover ;background-position: center ;" data-parallax-speed="0"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 51px ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;"><span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 35px ;text-align:center;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        <p><b>Quality Engine</b></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+											 <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 20px ;font-weight: 400 ;letter-spacing: 0px ;text-transform: none ;color: #000000 ;">
+                                                        <p>Direct Operator connectivity ensures you receive the best delivery.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>	
+									
+								
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			</br>
+				
+	
+		
+		
+          <footer>
+                <div class="apzo-footer-wrapper ">
+                    <div class="apzo-footer-container apzo-container clearfix">
+                       
+						
+						  <div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget apzo-widget">
+                                <h3 class="apzo-widget-title" style="text-align:left;">Telecom Services</h3><span class="clear"></span>
+                                <div class="menu-quick-links-container">
+                                    <ul id="menu-quick-links" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-full">
+                                        <li class="menu-item apzo-normal-menu"><a href="bulksms.html">Bulk SMS</a></li>
+										<li class="menu-item apzo-normal-menu"><a href="voicecall1.html">Voice Call</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="missedcall.html">Missed Call</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="ivr.html">IVR & Tollfree</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="website-designing.html">Website Designing</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="whatsapp.html">Whatsapp Messaging</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Mobile App Development</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+						
+						<div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget apzo-widget">
+                                <h3 class="apzo-widget-title" style="text-align:left;">Software Services</h3><span class="clear"></span>
+                                <div class="menu-quick-links-container">
+                                    <ul id="menu-quick-links" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-full">
+                                        <li class="menu-item apzo-normal-menu"><a href="#">E-commerce Software</a></li>
+										<li class="menu-item apzo-normal-menu"><a href="#">Voice Call Application</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">SMS Aggregator Application</a></li>
+										<li class="menu-item apzo-normal-menu"><a href="#">Banking Management Software</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+						
+						    <div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget apzo-widget">
+                                <h3 class="apzo-widget-title" style="text-align:left;">Company</h3><span class="clear"></span>
+                                <div class="menu-quick-links-container">
+                                    <ul id="menu-quick-links" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-full" >
+                                        
+										<li class="menu-item apzo-normal-menu"><a href="#">Legal</a></li>
+										 <li class="menu-item apzo-normal-menu"><a href="#">Terms</a></li>
+										 <li class="menu-item apzo-normal-menu"><a href="#">Carrers</a></li>
+										  <li class="menu-item apzo-normal-menu"><a href="#">Privacy</a></li>
+										<li class="menu-item apzo-normal-menu" ><a href="about-us.html">About Us</a></li>
+                                        
+                                      
+                                       
+                                       
+                                       
+                                       
+                                        
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Price Table</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="text-2" class="widget widget_text apzo-widget">
+                                <h3 class="apzo-widget-title" style="text-align:left;">Contact</h3><span class="clear"></span>
+                                <div class="textwidget">
+                                    <p><!--Mon &#8211; Sat : 10.00am &#8211; 7.00pm-->
+                                         J-325, Siddharth Elegance, <span class="gdlr-core-space-shortcode" id="span_064f_8"></span>
+                                        Nr. Old Chani Road <span class="gdlr-core-space-shortcode" id="span_064f_8"></span>
+                                        Vadodara, Gujarat <span class="gdlr-core-space-shortcode" id="span_064f_8"></span>
+                                        <br />
+                                        <i class="fa fa-phone" id="i_064f_22"></i> <a href="tel:9979952266">9979-952-266</a>
+                                        <br />
+                                        <span class="gdlr-core-space-shortcode" id="span_064f_9"></span>
+                                        <br />	
+                                        <i class="fa fa-envelope-o" id="i_064f_23"></i> <a href="mailto:info@vonvic.in"><span class="__cf_email__" data-cfemail="#">info@vonvic.in</span></a></p>
+											
+                                        <i class="fa fa-skype" id="i_064f_23"></i> <a href="https://www.skype.com/live:.cid.3c91cac211318f53"><span class="__cf_email__" data-cfemail="#">live:.cid.3c91cac211318f53</span></a></p>
+                                </div>
+                            </div>
+                        </div>
+						
+						
+						
+                    
+                     
+                    </div>
+                </div>
+                <div class="apzo-copyright-wrapper">
+                    <div class="apzo-copyright-container apzo-container clearfix" >
+                        <div class="apzo-copyright-left apzo-item-pdlr" >All Rights Reserved.</div>
+                      
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+
+    <script type='text/javascript' src='js/jquery/jquery.js'></script>
+    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
+    <script type='text/javascript' src='plugins/revslider/public/assets/js/revolution.tools.min.js'></script>
+    <script type='text/javascript' src='plugins/revslider/public/assets/js/rs6.min.js'></script>
+    <script type='text/javascript' src='plugins/goodlayers-core/plugins/script.js'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var gdlr_core_pbf = {
+            "admin": "",
+            "video": {
+                "width": "640",
+                "height": "360"
+            },
+            "ajax_url": "#"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
+    <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
+    <script type='text/javascript' src='js/jquery.mmenu.js'></script>
+    <script type='text/javascript' src='js/jquery.superfish.js'></script>
+    <script type='text/javascript' src='js/script-core.js'></script>
+
+</body>
+
+<!-- Mirrored from max-themes.net/demos/apzo/apzo/cloud-solutions.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Dec 2021 19:10:19 GMT -->
+</html>

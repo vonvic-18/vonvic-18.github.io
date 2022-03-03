@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+
+
+
+
+<!-- Mirrored from max-themes.net/demos/apzo/apzo/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Dec 2021 19:10:31 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Apzo &#8211; Saas Clean &#8211; HTML Template</title>
+
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/fontawesome/font-awesome.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/elegant/elegant-font.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/ionicons/ionicons.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/simpleline/simpleline.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/include/css/page-builder.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/revslider/public/assets/css/rs6.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/google-map-plugin/assets/css/frontend.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/style-core.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/apzo-style-custom.css' type='text/css' media='all' />
+
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=vietnamese%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Clatin&amp;display=optional&amp;ver=5.3.2' type='text/css' media='all' />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:600%2C400" rel="stylesheet" property="stylesheet" media="all" type="text/css">
+
+</head>
+
+<body class="home page-template-default page page-id-8230 theme-apzo gdlr-core-body woocommerce-no-js apzo-body apzo-body-front apzo-full  apzo-with-sticky-navigation  apzo-blockquote-style-1 gdlr-core-link-to-lightbox" data-home-url="#">
+    <div class="apzo-mobile-header-wrap">
+        <div class="apzo-mobile-header apzo-header-background apzo-style-slide apzo-sticky-mobile-navigation " id="apzo-mobile-header">
+            <div class="apzo-mobile-header-container apzo-container clearfix">
+                <div class="apzo-logo  apzo-item-pdlr">
+                    <div class="apzo-logo-inner">
+                         </div>
+                </div>
+                <div class="apzo-mobile-menu-right">
+                   <!-- <div class="apzo-main-menu-search" id="apzo-mobile-top-search"><i class="fa fa-search"></i></div>-->
+                    <div class="apzo-top-search-wrap">
+                        <div class="apzo-top-search-close"></div>
+
+                        <div class="apzo-top-search-row">
+                            <div class="apzo-top-search-cell">
+                                <form role="search" method="get" class="search-form" action="#">
+                                    <input type="text" class="search-field apzo-title-font" placeholder="Search..." value="" name="s">
+                                    <div class="apzo-top-search-submit"><i class="fa fa-search"></i></div>
+                                    <input type="submit" class="search-submit" value="Search">
+                                    <div class="apzo-top-search-close"><i class="icon_close"></i></div>
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="apzo-mobile-menu"><a class="apzo-mm-menu-button apzo-mobile-menu-button apzo-mobile-button-hamburger" href="#apzo-mobile-menu"><span></span></a>
+                        <div class="apzo-mm-menu-wrap apzo-navigation-font" id="apzo-mobile-menu" data-slide="right">
+                            <ul id="menu-main-navigation" class="m-menu">
+                                <li class="menu-item menu-item-home current-menu-item current_page_item"><a href="index.html" aria-current="page">Home</a></li>
+                                <li class="menu-item menu-item-has-children">Telecome Services
+                                    <ul class="sub-menu">
+                                        
+										<li class="menu-item"><a href="bulksms.html">Bulk SMS</a></li>
+										<li class="menu-item"><a href="missedcall.html">Missed Call</a></li>
+										<li class="menu-item"><a href="voicecall1.html">Voice Call</a></li>
+										<li class="menu-item"><a href="ivr.html">IVR & Tollfree</a></li>
+										<li class="menu-item"><a href="whatsapp.html">Whatsapp Messaging</a></li>
+									</ul>
+                                </li>
+								<li class="menu-item"><a href="data-science.html">Software Service</a>
+                                    <ul class="sub-menu">
+										<li class="menu-item"><a href="about-us.html">SMS Aggregator Application</a></li>
+										<li class="menu-item"><a href="about-us-2.html">Voice Call Application</a></li>
+										<li class="menu-item"><a href="about-team.html">E-commerce Software</a></li>
+										<li class="menu-item"><a href="about-team-2.html">Banking Management Software</a></li>
+										<li class="menu-item"><a href="website-designing.html">Website Designing</a></li>
+										<li class="menu-item"><a href="price-table.html">Mobile App Development</a></li>
+									</ul>
+								</li>
+								<li class="menu-item"><a href="data-science.html">Carrers</a>
+                                    <ul class="sub-menu">
+										<li class="menu-item"><a href="about-us.html">PHP</a></li>
+										<li class="menu-item"><a href="about-us-2.html">Asp.net</a></li>
+										<li class="menu-item"><a href="about-team.html">Android</a></li>
+										<li class="menu-item"><a href="about-team-2.html">IOS</a></li>
+										<li class="menu-item"><a href="about-team-2.html">Angular</a></li>
+									</ul>
+								</li>
+                                <li class="menu-item menu-item-has-children"><a href="about-us.html">About US</a>
+                                   <!-- <ul class="sub-menu">
+                                        <li class="menu-item"><a href="about-us.html">About Us</a></li>
+                                       
+                                    </ul>-->
+                                </li>
+                               <!-- <li class="menu-item menu-item-has-children"><a href="portfolio-3-columns.html">Portfolio</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item"><a href="portfolio-large-card.html">Portfolio Large Card</a></li>
+                                        <li class="menu-item menu-item-has-children"><a>Portfolio Grid</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="portfolio-2-columns.html">Portfolio 2 Columns</a></li>
+                                                <li class="menu-item"><a href="portfolio-3-columns.html">Portfolio 3 Columns</a></li>
+                                                <li class="menu-item"><a href="portfolio-4-columns.html">Portfolio 4 Columns</a></li>
+                                                <li class="menu-item"><a href="portfolio-5-columns.html">Portfolio 5 Columns</a></li>
+                                                <li class="menu-item"><a href="portfolio-2-columns-with-frame.html">Portfolio 2 Columns With Frame</a></li>
+                                                <li class="menu-item"><a href="portfolio-3-columns-with-frame.html">Portfolio 3 Columns With Frame</a></li>
+                                                <li class="menu-item"><a href="portfolio-4-columns-with-frame.html">Portfolio 4 Columns With Frame</a></li>
+                                                <li class="menu-item"><a href="portfolio-2-columns-no-space.html">Portfolio 2 Columns No Space</a></li>
+                                                <li class="menu-item"><a href="portfolio-3-columns-no-space.html">Portfolio 3 Columns No Space</a></li>
+                                                <li class="menu-item"><a href="portfolio-4-columns-no-space.html">Portfolio 4 Columns No Space</a></li>
+                                                <li class="menu-item"><a href="portfolio-5-columns-no-space.html">Portfolio 5 Columns No Space</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item menu-item-has-children"><a>Portfolio Masonry</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="portfolio-masonry-4-columns.html">Masonry 4 Columns</a></li>
+                                                <li class="menu-item"><a href="portfolio-masonry-3-columns.html">Masonry 3 Columns</a></li>
+                                                <li class="menu-item"><a href="portfolio-masonry-4-columns-no-space.html">Masonry 4 Columns No Space</a></li>
+                                                <li class="menu-item"><a href="portfolio-masonry-3-columns-no-space.html">Masonry 3 Columns No Space</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item menu-item-has-children"><a>Portfolio Side Thumbnail</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="portfolio-left-right-large-thumbnail.html">Portfolio Left &#038; Right Large Thumbnail</a></li>
+                                                <li class="menu-item"><a href="portfolio-left-large-thumbnail.html">Portfolio Left Large Thumbnail</a></li>
+                                                <li class="menu-item"><a href="portfolio-right-large-thumbnail.html">Portfolio Right Large Thumbnail</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html">Blog</a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item menu-item-has-children"><a href="blog-full-right-sidebar-with-frame.html">Blog Full</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="blog-full-right-sidebar-with-frame.html">Blog Full Right Sidebar With Frame</a></li>
+                                                <li class="menu-item"><a href="blog-full-left-sidebar-with-frame.html">Blog Full Left Sidebar With Frame</a></li>
+                                                <li class="menu-item"><a href="blog-full-both-sidebar-with-frame.html">Blog Full Both Sidebar With Frame</a></li>
+                                                <li class="menu-item"><a href="blog-full-right-sidebar.html">Blog Full Right Sidebar</a></li>
+                                                <li class="menu-item"><a href="blog-full-left-sidebar.html">Blog Full Left Sidebar</a></li>
+                                                <li class="menu-item"><a href="blog-full-both-sidebar.html">Blog Full Both Sidebar</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item menu-item-has-children"><a href="blog-3-columns-with-frame.html">Blog Columns</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item"><a href="blog-2-columns-with-frame.html">Blog 2 Columns With Frame</a></li>
+                                                <li class="menu-item"><a href="blog-3-columns-with-frame.html">Blog 3 Columns With Frame</a></li>
+                                                <li class="menu-item"><a href="blog-4-columns-with-frame.html">Blog 4 Columns With Frame</a></li>
+                                                <li class="menu-item"><a href="blog-2-columns.html">Blog 2 Columns</a></li>
+                                                <li class="menu-item"><a href="blog-3-columns.html">Blog 3 Columns</a></li>
+                                                <li class="menu-item"><a href="blog-4-columns.html">Blog 4 Columns</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item"><a href="how-to-choose-the-right-franchise-for-you.html">Single Posts</a></li>
+                                    </ul>
+                                </li>-->
+							</ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="apzo-body-outer-wrapper ">
+        <div class="apzo-body-wrapper clearfix  apzo-with-transparent-header apzo-with-frame">
+            <div class="apzo-header-background-transparent">
+                <div class="apzo-top-bar">
+                    <div class="apzo-top-bar-background"></div>
+                    <div class="apzo-top-bar-container apzo-top-bar-full ">
+                        <div class="apzo-top-bar-container-inner clearfix">
+                            <div class="apzo-top-bar-left apzo-item-pdlr"><i class="fa fa-envelope-open" id="i_064f_0"></i><a href="mailto:info@vonvic.in"><span class="__cf_email__" >info@vonvic.in</span></a>
+                                <i class="fa fa-phone" id="i_064f_1"></i><a href="tel:9979952266">(+91)9979-952-266</a></div>
+                            <div class="apzo-top-bar-right apzo-item-pdlr">
+                                <div class="apzo-top-bar-right-text">Open hours : Mon - Sat : 10:00 - 19:00</div>
+                               <!-- <div class="apzo-top-bar-right-social"><a href="#" target="_blank" class="apzo-top-bar-social-icon" title="facebook"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="apzo-top-bar-social-icon" title="linkedin"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="apzo-top-bar-social-icon" title="pinterest"><i class="fa fa-pinterest-p" ></i></a><a href="#" target="_blank" class="apzo-top-bar-social-icon" title="twitter"><i class="fa fa-twitter" ></i></a><a href="#" target="_blank" class="apzo-top-bar-social-icon" title="instagram"><i class="fa fa-instagram" ></i></a></div>-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <header class="apzo-header-wrap apzo-header-style-plain  apzo-style-center-menu apzo-sticky-navigation apzo-style-slide" data-navigation-offset="75px">
+                    <div class="apzo-header-background"></div>
+                     <div class="apzo-header-container-inner clearfix">
+                            <div class="apzo-logo  apzo-item-pdlr">
+                                <div class="apzo-logo-inner">
+                                    <a class="" href="index.html"><img src="upload/final-logo-2-removebg-preview-removebg-preview.png" alt="" width="180" height="53" title="logo-saas-clean" /></a>
+                                </div>
+                            </div>
+                            <div class="apzo-navigation apzo-item-pdlr clearfix ">
+                                <div class="apzo-main-menu" id="apzo-main-menu">
+                                    <ul id="menu-main-navigation-1" class="sf-menu">
+                                        <li class="menu-item menu-item-home current-menu-item page_item page-item-8230 current_page_item apzo-normal-menu"><a href="index.html">Home</a></li>
+                                        <li class="menu-item menu-item-has-children apzo-normal-menu"><a href="#" class="sf-with-ul-pre">Services</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item">Telecome
+												<ul class="sub-menu">
+                                                <li class="menu-item"><a href="bulksms.html">Bulk SMS</a></li>
+                                        <li class="menu-item"><a href="missedcall.html">Missed Call</a></li>
+                                        <li class="menu-item"><a href="voicecall1.html">Voice Call</a></li>
+                                        <li class="menu-item"><a href="ivr.html">IVR & Tollfree</a></li>
+                                        <li class="menu-item"><a href="whatsapp.html">Whatsapp Messaging</a></li>
+										<li class="menu-item"><a href="website-designing.html">Website Designing</a></li>
+                                        <li class="menu-item"><a href="business-analyze.html">Mobile App Development</a></li>
+                                       
+                                            </ul></li>
+                                        <li class="menu-item">Software
+										<ul class="sub-menu">
+                                                <li class="menu-item"><a href="cloud-solutions.html">SMS Aggregator Application</a></li>
+                                        <li class="menu-item"><a href="data-science.html">Voice Call Application</a></li>
+                                        <li class="menu-item"><a href="integrated-solution.html">E-commerce Software</a></li>
+                                        <li class="menu-item"><a href="brand-identity.html">Banking Management Software</a></li>
+										</ul></li>
+                                        
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item menu-item-has-children apzo-normal-menu"><a href="#" class="sf-with-ul-pre">Carrer</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item" data-size="60"><a href="about-us.html">PHP</a></li>
+                                                <li class="menu-item" data-size="60"><a href="about-us-2.html">Asp.net</a></li>
+                                                <li class="menu-item" data-size="60"><a href="about-team.html">Android</a></li>
+                                                <li class="menu-item" data-size="60"><a href="about-team-2.html">IOS</a></li>
+                                                <li class="menu-item" data-size="60"><a href="contact.html">Angular</a></li>
+                                                
+                                            </ul>
+                                        </li>
+										
+										<li class="menu-item menu-item-has-children apzo-normal-menu"><a href="about-us.html" class="sf-with-ul-pre">About US</a>
+                                           <!-- <ul class="sub-menu">
+                                                <li class="menu-item" data-size="60"><a href="about-us.html">About Us</a></li>
+                                                
+                                            </ul>-->
+                                        </li>
+                                        <!--<li class="menu-item menu-item-has-children apzo-normal-menu"><a href="portfolio-3-columns.html" class="sf-with-ul-pre">Portfolio</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item" data-size="60"><a href="portfolio-large-card.html">Portfolio Large Card</a></li>
+                                                <li class="menu-item menu-item-has-children" data-size="60"><a class="sf-with-ul-pre">Portfolio Grid</a>
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item"><a href="portfolio-2-columns.html">Portfolio 2 Columns</a></li>
+                                                        <li class="menu-item"><a href="portfolio-3-columns.html">Portfolio 3 Columns</a></li>
+                                                        <li class="menu-item"><a href="portfolio-4-columns.html">Portfolio 4 Columns</a></li>
+                                                        <li class="menu-item"><a href="portfolio-5-columns.html">Portfolio 5 Columns</a></li>
+                                                        <li class="menu-item"><a href="portfolio-2-columns-with-frame.html">Portfolio 2 Columns With Frame</a></li>
+                                                        <li class="menu-item"><a href="portfolio-3-columns-with-frame.html">Portfolio 3 Columns With Frame</a></li>
+                                                        <li class="menu-item"><a href="portfolio-4-columns-with-frame.html">Portfolio 4 Columns With Frame</a></li>
+                                                        <li class="menu-item"><a href="portfolio-2-columns-no-space.html">Portfolio 2 Columns No Space</a></li>
+                                                        <li class="menu-item"><a href="portfolio-3-columns-no-space.html">Portfolio 3 Columns No Space</a></li>
+                                                        <li class="menu-item"><a href="portfolio-4-columns-no-space.html">Portfolio 4 Columns No Space</a></li>
+                                                        <li class="menu-item"><a href="portfolio-5-columns-no-space.html">Portfolio 5 Columns No Space</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item menu-item-has-children" data-size="60"><a class="sf-with-ul-pre">Portfolio Masonry</a>
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item"><a href="portfolio-masonry-4-columns.html">Masonry 4 Columns</a></li>
+                                                        <li class="menu-item"><a href="portfolio-masonry-3-columns.html">Masonry 3 Columns</a></li>
+                                                        <li class="menu-item"><a href="portfolio-masonry-4-columns-no-space.html">Masonry 4 Columns No Space</a></li>
+                                                        <li class="menu-item"><a href="portfolio-masonry-3-columns-no-space.html">Masonry 3 Columns No Space</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item menu-item-has-children" data-size="60"><a class="sf-with-ul-pre">Portfolio Side Thumbnail</a>
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item"><a href="portfolio-left-right-large-thumbnail.html">Portfolio Left &#038; Right Large Thumbnail</a></li>
+                                                        <li class="menu-item"><a href="portfolio-left-large-thumbnail.html">Portfolio Left Large Thumbnail</a></li>
+                                                        <li class="menu-item"><a href="portfolio-right-large-thumbnail.html">Portfolio Right Large Thumbnail</a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item menu-item-has-children apzo-normal-menu"><a href="blog-full-right-sidebar-with-frame.html" class="sf-with-ul-pre">Blog</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="blog-full-right-sidebar-with-frame.html" class="sf-with-ul-pre">Blog Full</a>
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item"><a href="blog-full-right-sidebar-with-frame.html">Blog Full Right Sidebar With Frame</a></li>
+                                                        <li class="menu-item"><a href="blog-full-left-sidebar-with-frame.html">Blog Full Left Sidebar With Frame</a></li>
+                                                        <li class="menu-item"><a href="blog-full-both-sidebar-with-frame.html">Blog Full Both Sidebar With Frame</a></li>
+                                                        <li class="menu-item"><a href="blog-full-right-sidebar.html">Blog Full Right Sidebar</a></li>
+                                                        <li class="menu-item"><a href="blog-full-left-sidebar.html">Blog Full Left Sidebar</a></li>
+                                                        <li class="menu-item"><a href="blog-full-both-sidebar.html">Blog Full Both Sidebar</a></li>
+                                                    </ul>
+                                                </li>
+
+                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="blog-3-columns-with-frame.html" class="sf-with-ul-pre">Blog Columns</a>
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item"><a href="blog-2-columns-with-frame.html">Blog 2 Columns With Frame</a></li>
+                                                        <li class="menu-item"><a href="blog-3-columns-with-frame.html">Blog 3 Columns With Frame</a></li>
+                                                        <li class="menu-item"><a href="blog-4-columns-with-frame.html">Blog 4 Columns With Frame</a></li>
+                                                        <li class="menu-item"><a href="blog-2-columns.html">Blog 2 Columns</a></li>
+                                                        <li class="menu-item"><a href="blog-3-columns.html">Blog 3 Columns</a></li>
+                                                        <li class="menu-item"><a href="blog-4-columns.html">Blog 4 Columns</a></li>
+                                                        <li class="menu-item"><a href="blog-3-columns-with-frame-post-format.html">Blog Columns With Post Format</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item" data-size="60"><a href="how-to-choose-the-right-franchise-for-you.html">Single Posts</a></li>
+                                            </ul>
+                                        </li>-->
+                                    </ul>
+                                    <div class="apzo-navigation-slide-bar  apzo-navigation-slide-bar-style-dot" id="apzo-navigation-slide-bar"></div>
+                                </div>
+                                <div class="apzo-main-menu-right-wrap clearfix  apzo-item-mglr apzo-navigation-top">
+                                    <!--<div class="apzo-main-menu-search" id="apzo-top-search"><i class="icon-magnifier"></i></div>-->
+                                    <div class="apzo-top-search-wrap">
+                                        <div class="apzo-top-search-close"></div>
+
+                                        <div class="apzo-top-search-row">
+                                            <div class="apzo-top-search-cell">
+                                                <form role="search" method="get" class="search-form" action="#">
+                                                    <input type="text" class="search-field apzo-title-font" placeholder="Search..." value="" name="s">
+                                                    <div class="apzo-top-search-submit"><i class="fa fa-search"></i></div>
+                                                    <input type="submit" class="search-submit" value="Search">
+                                                    <div class="apzo-top-search-close"><i class="icon_close"></i></div>
+                                                </form>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <a class="apzo-main-menu-right-button apzo-style-round" href="pricing.html" target="_self">Purchase Now</a></div>
+                            </div>
+                            <!-- apzo-navigation -->
+
+                        </div>
+                        <!-- apzo-header-inner -->
+                    </div>
+                    <!-- apzo-header-container -->
+                </header>
+                <!-- header -->
+            </div>
+
+
+            <div class="apzo-page-wrapper" id="apzo-page-wrapper">
+                <div class="gdlr-core-page-builder-body">
+                    <div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-tablet-mobile" style="padding: 170px 0px 40px 0px;">
+                        <div class="gdlr-core-pbf-background-wrap"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container"></div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-wrapper " style="padding: 220px 0px 180px 0px;" data-skin="white" id="gdlr-core-wrapper-1">
+                        <div class="gdlr-core-pbf-background-wrap">
+                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/bg-4.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed="0.3"></div>
+                        </div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " data-gdlr-animation="fadeInUp" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
+                                        <div class="gdlr-core-title-item-title-wrap ">
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 75px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">Contact Us<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 25px ;font-style: normal ;color: #f8f8f8 ;margin-top: 15px ;">Get Intouch</span></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-wrapper " style="padding: 50px 0px 40px 0px;" data-skin="white">
+                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #161616 ;"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 50px 20px 0px 20px;">
+                                        <div class="gdlr-core-pbf-background-wrap"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInUp" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-icon-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 40px ;"><i class=" gdlr-core-icon-item-icon fa fa-phone" style="color: #ffffff ;font-size: 40px ;min-width: 40px ;min-height: 40px ;"></i></div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 25px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;letter-spacing: 0px ;text-transform: none ;">Phone<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;color: #7f9ddb ;">
+                                                        <p>A wonderful serenity has taken possession of my entire soul, like these.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;">
+                                                        <p><a href="#">+1-2345-2345</a></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 50px 20px 0px 20px;">
+                                        <div class="gdlr-core-pbf-background-wrap"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInDown" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-icon-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 40px ;"><i class=" gdlr-core-icon-item-icon fa fa-envelope-o" style="color: #ffffff ;font-size: 40px ;min-width: 40px ;min-height: 40px ;"></i></div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 25px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;letter-spacing: 0px ;text-transform: none ;">Email<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;color: #7f9ddb ;">
+                                                        <p>A wonderful serenity has taken possession of my entire soul, like these.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;">
+                                                        <p><a href="#"><span class="__cf_email__" data-cfemail="6d2e0203190c0e192d0a020209010c14081f1e430e0200">test@gmail.com</span></a></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 50px 20px 0px 20px;">
+                                        <div class="gdlr-core-pbf-background-wrap"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " data-gdlr-animation="fadeInUp" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-icon-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 40px ;"><i class=" gdlr-core-icon-item-icon fa fa-location-arrow" style="color: #ffffff ;font-size: 40px ;min-width: 40px ;min-height: 40px ;"></i></div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 25px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;letter-spacing: 0px ;text-transform: none ;">Location<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;text-transform: none ;color: #7f9ddb ;">
+                                                        <p>4 apt. Flawing Street. The Grand Avenue.
+                                                            <br />Liverpool, UK 33342</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+                                                    <div class="gdlr-core-text-box-item-content" style="font-size: 16px ;">
+                                                        <p><a href="#">View On Google Map</a></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 20px 0px;">
+                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #f3f3f3 ;"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-background-wrap"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js " style="max-width: 760px ;">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" style="padding-bottom: 60px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 39px ;letter-spacing: 0px ;text-transform: none ;">Leave us your info <span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 19px ;font-style: normal ;">and we will get back to you.</span></div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-contact-form-7-item gdlr-core-item-pdlr gdlr-core-item-pdb ">
+                                                    <div role="form" class="wpcf7" id="wpcf7-f1979-p1964-o1" lang="en-US" dir="ltr">
+                                                        <div class="screen-reader-response"></div>
+                                                            <form class="quform" action="https://max-themes.net/demos/apzo/apzo/plugins/quform/process.php" method="post" enctype="multipart/form-data" onclick="">
+
+                                                                <div class="quform-elements">
+                                                                    <div class="quform-element">
+                                                                        <p>
+
+                                                                            <span class="wpcf7-form-control-wrap your-name">
+                                                                                <input id="name" type="text" name="name" size="40" class="input1" aria-required="true" aria-invalid="false" placeholder="Name*">
+                                                                            </span> 
+                                                                        </p>
+                                                                    </div>
+                                                                    <div class="quform-element">
+                                                                        <p>
+
+                                                                            <span class="wpcf7-form-control-wrap your-email">
+                                                                                <input id="email" type="text" name="email" size="40" class="input1" aria-required="true" aria-invalid="false" placeholder="Email*">
+                                                                            </span> 
+                                                                        </p>
+                                                                    </div>
+                                                                    <div class="quform-element">
+                                                                        <p>
+
+                                                                            <span class="wpcf7-form-control-wrap your-message">
+                                                                                <textarea  id="message" name="message" cols="40" rows="10" class="input1" aria-invalid="false" placeholder="Message*"></textarea>
+                                                                            </span>
+                                                                        </p>
+                                                                    </div>
+                                                                    <p>
+                                                                        <!-- Begin Submit button -->
+                                                                        <div class="quform-submit">
+                                                                            <div class="quform-submit-inner">
+                                                                                <button type="submit" class="submit-button"><span>Send</span></button>
+                                                                            </div>
+                                                                            <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
+                                                                        </div>
+                                                                    </p>
+                                                                </div>
+                                                            </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
+                        <div class="gdlr-core-pbf-background-wrap"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-wp-google-map-plugin-item gdlr-core-item-pdlr gdlr-core-item-pdb " style="padding-bottom: 0px ;">
+                                        <div class="wpgmp_map_container wpgmp-map-1" rel=map1>
+                                            <iframe style="width:100%; height:500px; border:0" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d19905.696399556287!2d-0.3007084089960577!3d51.417531259591925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s2334+Peterson+Street+Kingston+UK+London+H14D!5e0!3m2!1sen!2s!4v1546697086219" width="600" height="450" ></iframe>
+                                            <div style="position: absolute;width: 80%;bottom: 20px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;">
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-wrapper " style="padding: 80px 0px 50px 0px;">
+                        <div class="gdlr-core-pbf-background-wrap" style="background-color: #ffffff ;"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-center-align gdlr-core-item-pdlr"><a href="https://demo.goodlayers.com/cdn-cgi/l/email-protection#5370" target="_blank" class="gdlr-core-social-network-icon" title="email" style="font-size: 20px ;color: #1e1e1e ;"><i class="fa fa-envelope" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="font-size: 20px ;color: #1e1e1e ;margin-left: 40px ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus" style="font-size: 20px ;color: #1e1e1e ;margin-left: 40px ;"><i class="fa fa-google-plus" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="font-size: 20px ;color: #1e1e1e ;margin-left: 40px ;"><i class="fa fa-skype" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="font-size: 20px ;color: #1e1e1e ;margin-left: 40px ;"><i class="fa fa-twitter" ></i></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <footer>
+                <div class="apzo-footer-wrapper ">
+                    <div class="apzo-footer-container apzo-container clearfix">
+                        <div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="text-1" class="widget widget_text apzo-widget">
+                                <div class="textwidget">
+                                    <p><img src="upload/logo-footer.png" alt="" width="73" height="17" /></p>
+                                    <p>Manage the entire recruitment workflow from candidate sourcing to submittal to placement, the APZO CRM. </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="text-2" class="widget widget_text apzo-widget">
+                                <h3 class="apzo-widget-title">Contact</h3><span class="clear"></span>
+                                <div class="textwidget">
+                                    <p>Mon &#8211; Fre : 8.00am &#8211; 6.00pm
+                                        <br /> 112W 34th St, New York <span class="gdlr-core-space-shortcode" style="margin-top: -9px ;"></span>
+                                        <br />
+                                        <i class="fa fa-phone" style="font-size: 18px ;color: #ffffff ;margin-right: 10px ;"></i> <a href="#">(1)-2340-33-455</a>
+                                        <br />
+                                        <span class="gdlr-core-space-shortcode" style="margin-top: -10px ;"></span>
+                                        <br />
+                                        <i class="fa fa-envelope-o" style="font-size: 18px ;color: #ffffff ;margin-right: 10px ;"></i> <a href="#"><span class="__cf_email__" data-cfemail="#">test@gmail.com</span></a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget apzo-widget">
+                                <h3 class="apzo-widget-title">Quick Links</h3><span class="clear"></span>
+                                <div class="menu-quick-links-container">
+                                    <ul id="menu-quick-links" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-half">
+                                        <li class="menu-item apzo-normal-menu"><a href="#">About Us</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Legal</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Our Team</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Terms</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Our News</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Privacy</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Case Studies</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Jobs</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Price Table</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="text-4" class="widget widget_text apzo-widget">
+                                <h3 class="apzo-widget-title">Subscribe to newsletter</h3><span class="clear"></span>
+                                <div class="textwidget">
+                                    <p>Get the latest business resources on the market delivered to your inbox.</p>
+                                    <span class="gdlr-core-space-shortcode" style="margin-top: -30px ;"></span>
+                                </div>
+                            </div>
+                            <div id="gdlr-core-newsletter-widget-2" class="widget widget_gdlr-core-newsletter-widget apzo-widget">
+                                <div class="gdlr-core-with-fa-send-o-button tnp tnp-subscription">
+                                    <form method="post" action="#" onsubmit="return newsletter_check(this)">
+
+                                        <input type="hidden" name="nlang" value="">
+                                        <div class="tnp-field tnp-field-email">
+                                            <input class="tnp-email" type="email" name="ne" placeholder="Enter Your Email Address" required>
+                                        </div>
+                                        <div class="tnp-field tnp-field-button" style="color: #3c73f0">
+                                            <input class="tnp-submit" type="submit" value="Subscribe">
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="apzo-copyright-wrapper">
+                    <div class="apzo-copyright-container apzo-container clearfix">
+                        <div class="apzo-copyright-left apzo-item-pdlr">Copyright ©2019 GoodLayers. All Rights Reserved.</div>
+                        <div class="apzo-copyright-right apzo-item-pdlr">
+                            <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="font-size: 16px ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="font-size: 16px ;margin-left: 24px ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="pinterest" style="font-size: 16px ;margin-left: 24px ;"><i class="fa fa-pinterest-p" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="font-size: 16px ;margin-left: 24px ;"><i class="fa fa-twitter" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram" style="font-size: 16px ;margin-left: 24px ;"><i class="fa fa-instagram" ></i></a></div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+
+    <script type='text/javascript' src='js/jquery/jquery.js'></script>
+    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
+    <script type='text/javascript' src='plugins/revslider/public/assets/js/revolution.tools.min.js'></script>
+    <script type='text/javascript' src='plugins/revslider/public/assets/js/rs6.min.js'></script>
+    <script type='text/javascript' src='plugins/goodlayers-core/plugins/script.js'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var gdlr_core_pbf = {
+            "admin": "",
+            "video": {
+                "width": "640",
+                "height": "360"
+            },
+            "ajax_url": "#"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
+    <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
+    <script type='text/javascript' src='js/jquery.mmenu.js'></script>
+    <script type='text/javascript' src='js/jquery.superfish.js'></script>
+    <script type='text/javascript' src='js/script-core.js'></script>
+    <script type="text/javascript" src="plugins/quform/js/plugins.js"></script>
+    <script type="text/javascript" src="plugins/quform/js/scripts.js"></script>
+</body>
+
+<!-- Mirrored from max-themes.net/demos/apzo/apzo/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Dec 2021 19:10:32 GMT -->
+</html>

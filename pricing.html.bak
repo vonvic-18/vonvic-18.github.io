@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+
+<!-- Mirrored from max-themes.net/demos/apzo/apzo/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Dec 2021 19:09:10 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>VON VIC</title>
+
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/fontawesome/font-awesome.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/elegant/elegant-font.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/ionicons/ionicons.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/simpleline/simpleline.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/goodlayers-core/include/css/page-builder.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/revslider/public/assets/css/rs6.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='plugins/google-map-plugin/assets/css/frontend.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/style-core.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/apzo-style-custom.css' type='text/css' media='all' />
+
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=vietnamese%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Clatin&amp;display=optional&amp;ver=5.3.2' type='text/css' media='all' />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:600%2C400" rel="stylesheet" property="stylesheet" media="all" type="text/css">
+
+</head>
+
+<body class="home page-template-default page page-id-8230 theme-apzo gdlr-core-body woocommerce-no-js apzo-body apzo-body-front apzo-full  apzo-with-sticky-navigation  apzo-blockquote-style-1 gdlr-core-link-to-lightbox" data-home-url="#">
+    <div class="apzo-mobile-header-wrap">
+        <div class="apzo-mobile-header apzo-header-background apzo-style-slide apzo-sticky-mobile-navigation " id="apzo-mobile-header">
+            <div class="apzo-mobile-header-container apzo-container clearfix">
+                <div class="apzo-logo  apzo-item-pdlr">
+                    <div class="apzo-logo-inner">
+                         </div>
+                </div>
+				<div class="apzo-logo-inner">
+                                    <a class="" href="index.html"><img src="upload/final-logo-2-removebg-preview-removebg-preview.png" alt="" width="180" height="53" title="logo-saas-clean" /></a>
+                                </div>
+                <div class="apzo-mobile-menu-right">
+                  
+                    <div class="apzo-top-search-wrap">
+                        <div class="apzo-top-search-close"></div>
+
+                        <div class="apzo-top-search-row">
+                            <div class="apzo-top-search-cell">
+                                <form role="search" method="get" class="search-form" action="#">
+                                    <input type="text" class="search-field apzo-title-font" placeholder="Search..." value="" name="s">
+                                    <div class="apzo-top-search-submit"><i class="fa fa-search"></i></div>
+                                    <input type="submit" class="search-submit" value="Search">
+                                    <div class="apzo-top-search-close"><i class="icon_close"></i></div>
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+ 	
+                    <div class="apzo-mobile-menu"><a class="apzo-mm-menu-button apzo-mobile-menu-button apzo-mobile-button-hamburger" href="#apzo-mobile-menu"><span></span></a>
+					
+                        <div class="apzo-mm-menu-wrap apzo-navigation-font" id="apzo-mobile-menu" data-slide="right">
+                            <ul id="menu-main-navigation" class="m-menu">
+                                <li class="menu-item menu-item-home current-menu-item current_page_item"><a href="index.html" aria-current="page">Home</a></li>
+									<li class="menu-item menu-item-has-children"><a href="about-us.html">About US</a>
+                                  
+                                </li>
+								<li class="menu-item"><a href="#">Telecome Services</a>
+                                    <ul class="sub-menu">
+										<li class="menu-item"><a href="bulksms.html">Bulk SMS</a></li>
+										<li class="menu-item"><a href="missedcall.html">Missed Call</a></li>
+										<li class="menu-item"><a href="voicecall1.html">Voice Call</a></li>
+										<li class="menu-item"><a href="ivr.html">IVR & Tollfree</a></li>
+										<li class="menu-item"><a href="whatsapp.html">Whatsapp Messaging</a></li>
+									</ul>
+								</li>
+								<li class="menu-item"><a href="#">Software Service</a>
+                                    <ul class="sub-menu">
+										<li class="menu-item"><a href="#">SMS Aggregator Application</a></li>
+										<li class="menu-item"><a href="#">Voice Call Application</a></li>
+										<li class="menu-item"><a href="#">E-commerce Software</a></li>
+										<li class="menu-item"><a href="#">Banking Management Software</a></li>
+										<li class="menu-item"><a href="website-designing.html">Website Designing</a></li>
+										<li class="menu-item"><a href="#">Mobile App Development</a></li>
+									</ul>
+								</li>
+								<li class="menu-item"><a href="technology.html">Technology</a>
+                                    
+								</li>
+                                
+								<li class="menu-item"><a href="technology.html">Login</a>
+                                    
+								</li>
+                              
+							</ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="apzo-body-outer-wrapper ">
+        <div class="apzo-body-wrapper clearfix  apzo-with-transparent-header apzo-with-frame">
+            <div class="apzo-header-background-transparent">
+                <div class="apzo-top-bar">
+                    <div class="apzo-top-bar-background"></div>
+                    <div class="apzo-top-bar-container apzo-top-bar-full ">
+                        <div class="apzo-top-bar-container-inner clearfix">
+                            <div class="apzo-top-bar-left apzo-item-pdlr"><i class="fa fa-envelope-open" id="i_064f_0"></i><a href="mailto:info@vonvic.in"><span class="__cf_email__" >info@vonvic.in</span></a>
+                                <i class="fa fa-phone" id="i_064f_1"></i><a href="tel:9979952266">9979-952-266</a></div>
+                            <div class="apzo-top-bar-right apzo-item-pdlr">
+                                <div class="apzo-top-bar-right-text"></div>
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <header class="apzo-header-wrap apzo-header-style-plain  apzo-style-center-menu apzo-sticky-navigation apzo-style-slide" data-navigation-offset="75px">
+                    <div class="apzo-header-background"></div>
+                     <div class="apzo-header-container-inner clearfix">
+                            <div class="apzo-logo  apzo-item-pdlr">
+                                <div class="apzo-logo-inner">
+                                    <a class="" href="index.html"><img src="upload/final-logo-2-removebg-preview-removebg-preview.png" alt="" width="180" height="53" title="logo-saas-clean" /></a>
+                                </div>
+                            </div>
+                            <div class="apzo-navigation apzo-item-pdlr clearfix ">
+                                <div class="apzo-main-menu" id="apzo-main-menu">
+                                    <ul id="menu-main-navigation-1" class="sf-menu">
+                                        <li class="menu-item menu-item-home current-menu-item page_item page-item-8230 current_page_item apzo-normal-menu"><a href="index.html">Home</a></li>
+										<li class="menu-item menu-item-has-children apzo-normal-menu"><a href="about-us.html" class="sf-with-ul-pre">About US</a>
+                                          
+                                        </li>
+                                        <li class="menu-item menu-item-has-children apzo-normal-menu"><a href="#" class="sf-with-ul-pre">Services</a>
+                                            <ul class="sub-menu">
+                                                <li class="menu-item">Telecome
+												<ul class="sub-menu">
+                                                <li class="menu-item"><a href="bulksms.html">Bulk SMS</a></li>
+                                        <li class="menu-item"><a href="missedcall.html">Missed Call</a></li>
+                                        <li class="menu-item"><a href="voicecall1.html">Voice Call</a></li>
+                                        <li class="menu-item"><a href="ivr.html">IVR & Tollfree</a></li>
+                                        <li class="menu-item"><a href="whatsapp.html">Whatsapp Messaging</a></li>
+										<li class="menu-item"><a href="website-designing.html">Website Designing</a></li>
+                                        <li class="menu-item"><a href="#">Mobile App Development</a></li>
+                                       
+                                            </ul></li>
+                                        <li class="menu-item">Software
+										<ul class="sub-menu">
+                                                <li class="menu-item"><a href="#">SMS Aggregator Application</a></li>
+                                        <li class="menu-item"><a href="#">Voice Call Application</a></li>
+                                        <li class="menu-item"><a href="#">E-commerce Software</a></li>
+                                        <li class="menu-item"><a href="#">Banking Management Software</a></li>
+										</ul></li>
+                                        
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item menu-item-has-children apzo-normal-menu"><a href="technology.html" class="sf-with-ul-pre">Technology</a>
+                                            
+                                        </li>
+										
+										
+										<li class="menu-item menu-item-has-children apzo-normal-menu"><a href="#" class="sf-with-ul-pre">Login</a>
+                                          
+                                        </li>
+                                       
+                                    </ul>
+                                    <div class="apzo-navigation-slide-bar  apzo-navigation-slide-bar-style-dot" id="apzo-navigation-slide-bar"></div>
+                                </div>
+                                <div class="apzo-main-menu-right-wrap clearfix  apzo-item-mglr apzo-navigation-top">
+                                   
+                                    <div class="apzo-top-search-wrap">
+                                        <div class="apzo-top-search-close"></div>
+
+                                        <div class="apzo-top-search-row">
+                                            <div class="apzo-top-search-cell">
+                                                <form role="search" method="get" class="search-form" action="#">
+                                                    <input type="text" class="search-field apzo-title-font" placeholder="Search..." value="" name="s">
+                                                    <div class="apzo-top-search-submit"><i class="fa fa-search"></i></div>
+                                                    <input type="submit" class="search-submit" value="Search">
+                                                    <div class="apzo-top-search-close"><i class="icon_close"></i></div>
+                                                </form>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <a class="apzo-main-menu-right-button apzo-style-round" href="pricing.html" target="_self">Purchase Now</a></div>
+                            </div>
+                            <!-- apzo-navigation -->
+
+                        </div>
+                        <!-- apzo-header-inner -->
+                    </div>
+                    <!-- apzo-header-container -->
+                </header>
+                <!-- header -->
+            </div>
+            <div class="apzo-page-wrapper" id="apzo-page-wrapper">
+                <div class="gdlr-core-page-builder-body">
+                    <div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-tablet-mobile" id="div_064f_0">
+                        <div class="gdlr-core-pbf-background-wrap"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container"></div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-wrapper " id="div_064f_1">
+                        <div class="gdlr-core-pbf-background-wrap" id="div_064f_2"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-revolution-slider-item gdlr-core-item-pdlr gdlr-core-item-pdb " id="div_064f_3">
+                                        <!-- START Saas Clean REVOLUTION SLIDER 6.1.5 -->
+                                        <p class="rs-p-wp-fix"></p>
+                                        <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+                                            <rs-module id="rev_slider_1_1" style="display:none;" data-version="6.1.5">
+                                                <rs-slides>
+                                                    <rs-slide data-key="rs-1" data-title="Slide" data-thumb="#" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+                                                        <img src="upload/bg-clean-2.jpg" alt="slider" title="bg-clean-2.jpg" width="1920" height="1000" class="rev-slidebg" data-no-retina>
+                                                       
+                                                        <rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:c;xo:0,0,-2px,0;y:m;yo:-96px,-96px,-91px,-112px;" data-text="s:88,88,54,39;l:88,88,54,55;fw:600;a:inherit;" data-frame_0="tp:600;" data-frame_1="tp:600;st:290;sR:290;" data-frame_999="o:0;tp:600;st:w;sR:8410;" style="z-index:9;font-family:Jost*;">Pricing
+                                                        </rs-layer>
+                                                        <!-- -->
+                                                        <rs-layer id="slider-1-slide-1-layer-3" class="tp-shape tp-shapewrapper" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:-1px,-1px,0,0;y:m;yo:-21px,-21px,-35px,-60px;" data-text="fw:600;a:inherit;" data-dim="w:70px;h:3px;" data-frame_0="tp:600;" data-frame_1="tp:600;st:530;sR:530;" data-frame_999="o:0;tp:600;st:w;sR:8170;" style="z-index:10;background-color:#ffffff;">
+                                                        </rs-layer>
+                                                        <!-- -->
+                                                        <rs-layer id="slider-1-slide-1-layer-4" data-type="text" data-color="#d9d9d9" data-xy="x:c;y:m;yo:49px,49px,26px,24px;" data-text="w:normal;s:20,20,17,17;l:32,32,30,27;a:center;" data-dim="w:656px,656px,519px,352px;" data-rsp_bd="off" data-frame_0="tp:600;" data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:790;sR:790;" data-frame_999="o:0;tp:600;st:w;sR:7910;" style="z-index:11;font-family:Jost*;">lorem imsum !lorem imsum !lorem imsum !lorem imsum !lorem imsum !lorem imsum !lorem imsum !lorem imsum !lorem imsum !
+                                                        </rs-layer>
+                                                        <!-- -->
+                                                        <rs-layer id="slider-1-slide-1-layer-5" data-type="text" data-color="#d9d9d9" data-rsp_ch="on" data-xy="xo:441px;yo:500px;" data-text="l:22;a:inherit;" data-frame_0="tp:600;" data-frame_1="tp:600;st:1010;sR:1010;" data-frame_999="o:0;tp:600;st:w;sR:7690;" style="z-index:12;font-family:Jost*;">
+                                                        </rs-layer>
+                                                        <!-- -->
+                                                        <rs-layer id="slider-1-slide-1-layer-6" class="rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;xo:1px,1px,0,0;yo:535px,535px,412px,414px;" data-text="s:17,17,16,15;l:17;fw:600,600,700,700;a:inherit;" data-padding="t:19,19,16,17;r:40,40,35,30;b:23,23,20,21;l:40,40,35,30;" data-border="bor:30px,30px,30px,30px;" data-frame_0="tp:600;" data-frame_1="tp:600;st:1250;sR:1250;" data-frame_999="o:0;tp:600;st:w;sR:7450;" data-frame_hover="c:#000;bgc:#fff;boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:13;background-color:#4275dc;font-family:Jost*;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"><a href="index.html">Purchase Now</a>
+                                                        </rs-layer>
+                                                        <!---->
+                                                    </rs-slide>
+                                                    <rs-slide data-key="rs-3" data-title="Slide" data-thumb="//demo.goodlayers.com/apzo/saasclean/upload/bg-service-A3-100x50.jpg" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+                                                        <img src="upload/bg-service-A3.jpg" alt="slider" title="bg-service-A3" width="1920" height="1100" class="rev-slidebg" data-no-retina>
+                                                        <!--    -->
+                                                        <rs-layer id="slider-1-slide-3-layer-1" data-type="text" data-color="#9fbfff" data-rsp_ch="on" data-xy="x:c;y:t,t,m,m;yo:236px,236px,-137px,-149px;" data-text="s:18,18,18,16;l:22;ls:10px;fw:600;a:inherit;" data-frame_0="tp:600;" data-frame_1="tp:600;" data-frame_999="o:0;tp:600;st:w;sR:8700;" style="z-index:8;font-family:Jost*;">APZO BIZ
+                                                        </rs-layer>
+                                                        <!-- -->
+                                                        <rs-layer id="slider-1-slide-3-layer-2" data-type="text" data-rsp_ch="on" data-xy="x:c;xo:0,0,-2px,0;y:m;yo:-96px,-96px,-91px,-112px;" data-text="s:88,88,54,39;l:88,88,54,55;fw:600;a:inherit;" data-frame_0="tp:600;" data-frame_1="tp:600;st:290;sR:290;" data-frame_999="o:0;tp:600;st:w;sR:8410;" style="z-index:9;font-family:Jost*;">Planning Services
+                                                        </rs-layer>
+                                                        <!-- -->
+                                                        <rs-layer id="slider-1-slide-3-layer-3" class="tp-shape tp-shapewrapper" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:-1px,-1px,0,0;y:m;yo:-21px,-21px,-35px,-60px;" data-text="fw:600;a:inherit;" data-dim="w:70px;h:3px;" data-frame_0="tp:600;" data-frame_1="tp:600;st:530;sR:530;" data-frame_999="o:0;tp:600;st:w;sR:8170;" style="z-index:10;background-color:#ffffff;">
+                                                        </rs-layer>
+                                                        <!-- -->
+                                                        <rs-layer id="slider-1-slide-3-layer-4" data-type="text" data-color="#d9d9d9" data-xy="x:c;y:m;yo:49px,49px,26px,24px;" data-text="w:normal;s:20,20,17,17;l:32,32,30,27;a:center;" data-dim="w:656px,656px,519px,352px;" data-rsp_bd="off" data-frame_0="tp:600;" data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:790;sR:790;" data-frame_999="o:0;tp:600;st:w;sR:7910;" style="z-index:11;font-family:Jost*;">Apzo helps growing business by in-depth analyzing, plus using our powerful AI machine learning, APZO Mind.
+                                                        </rs-layer>
+                                                        <!-- -->
+                                                        <rs-layer id="slider-1-slide-3-layer-5" data-type="text" data-color="#d9d9d9" data-rsp_ch="on" data-xy="xo:441px;yo:500px;" data-text="l:22;a:inherit;" data-frame_0="tp:600;" data-frame_1="tp:600;st:1010;sR:1010;" data-frame_999="o:0;tp:600;st:w;sR:7690;" style="z-index:12;font-family:Jost*;">
+                                                        </rs-layer>
+                                                        <!-- -->
+                                                        <rs-layer id="slider-1-slide-3-layer-6" class="rev-btn" data-type="button" data-color="rgba(255,255,255,1)" data-xy="x:c;xo:1px,1px,0,0;yo:535px,535px,412px,414px;" data-text="s:17,17,16,15;l:17;fw:600,600,700,700;a:inherit;" data-padding="t:19,19,16,17;r:40,40,35,30;b:23,23,20,21;l:40,40,35,30;" data-border="bor:30px,30px,30px,30px;" data-frame_0="tp:600;" data-frame_1="tp:600;st:1250;sR:1250;" data-frame_999="o:0;tp:600;st:w;sR:7450;" data-frame_hover="c:#000;bgc:#fff;boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:0;" style="z-index:13;background-color:#4275dc;font-family:Jost*;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Request a Demo
+                                                        </rs-layer>
+                                                        <!-- -->
+                                                    </rs-slide>
+                                                </rs-slides>
+                                                <rs-progress class="rs-bottom" style="visibility: hidden !important;"></rs-progress>
+                                            </rs-module>
+
+                                        </rs-module-wrap>
+                                        <!-- END REVOLUTION SLIDER -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   </br>
+                   </br>
+                   </br>
+                   </br>
+				   		<div class="apzo-page-wrapper" id="apzo-page-wrapper">
+                <div class="gdlr-core-page-builder-body">
+                    <div class="gdlr-core-pbf-wrapper "  id="gdlr-core-wrapper-1">
+                        <div class="gdlr-core-pbf-background-wrap"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-column gdlr-core-column-12 gdlr-core-column-first" data-skin="Apzo Web Design" id="gdlr-core-column-29785">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-move-up-with-shadow" id="div_608f_0">
+                                        <div class="gdlr-core-pbf-background-wrap" id="div_608f_1"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-center-align gdlr-core-no-caption gdlr-core-item-pdlr" id="div_608f_2">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_608f_3"><img src="upload/sp-1.png" alt="" width="111" height="111" title="icon-No1" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 25px ;color:#000000;" id="h3_608f_0">Create incredible experiences</h3></div>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-12" data-skin="Apzo Web Design" id="gdlr-core-column-27778">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-move-up-with-shadow" id="div_608f_5">
+                                        <div class="gdlr-core-pbf-background-wrap" id="div_608f_6"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-center-align gdlr-core-no-caption gdlr-core-item-pdlr" id="div_608f_7">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_608f_8"><img src="upload/sp-2.png" alt="" width="111" height="111" title="icon-No2" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 25px ;color:#000000;" id="h3_608f_1">Increase <br> your <br> income</h3></div>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-12" data-skin="Apzo Web Design" id="gdlr-core-column-49744">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-move-up-with-shadow" id="div_608f_10">
+                                        <div class="gdlr-core-pbf-background-wrap" id="div_608f_11"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-center-align gdlr-core-no-caption gdlr-core-item-pdlr" id="div_608f_12">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_608f_13"><img src="upload/sp-3.png" alt="" width="111" height="111" title="icon-No3" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 25px ;color:#000000;" id="h3_608f_2">Reduce <br> your  <br> costs</h3></div>
+															
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                 <div class="gdlr-core-pbf-column gdlr-core-column-12" data-skin="Apzo Web Design" id="gdlr-core-column-49744">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-move-up-with-shadow" id="div_608f_10">
+                                        <div class="gdlr-core-pbf-background-wrap" id="div_608f_11"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-center-align gdlr-core-no-caption gdlr-core-item-pdlr" id="div_608f_12">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_608f_13"><img src="upload/sp-4.png" alt="" width="111" height="111" title="icon-No3" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 25px ;color:#000000;" id="h3_608f_2">Increase <br> their <br>loyalty</h3></div>
+																
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+								<div class="gdlr-core-pbf-column gdlr-core-column-12" data-skin="Apzo Web Design" id="gdlr-core-column-49744">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-move-up-with-shadow" id="div_608f_10">
+                                        <div class="gdlr-core-pbf-background-wrap" id="div_608f_11"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-column-service-item gdlr-core-item-pdb  gdlr-core-center-align gdlr-core-no-caption gdlr-core-item-pdlr" id="div_608f_12">
+                                                    <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_608f_13"><img src="upload/sp-5.png" alt="" width="111" height="111" title="icon-No3" /></div>
+                                                    <div class="gdlr-core-column-service-content-wrapper">
+                                                        <div class="gdlr-core-column-service-title-wrap">
+                                                          
+                                                            <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" style="font-size: 25px ;color:#000000;" id="h3_608f_2">Strengthens <br> the <br> relationship</h3></div>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                   
+                    
+                   
+                    
+                </div>
+            </div>	
+				   
+                
+                  
+                    <div class="gdlr-core-pbf-wrapper " id="div_064f_74">
+                        <div class="gdlr-core-pbf-background-wrap"></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-10346">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-left" id="div_064f_75" data-sync-height="side1">
+                                        <div class="gdlr-core-pbf-background-wrap">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_064f_76" data-parallax-speed="0.1"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-70156">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js  gdlr-core-column-extend-right" id="div_064f_77" data-sync-height="side1">
+                                        <div class="gdlr-core-pbf-background-wrap">
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_064f_78" data-parallax-speed="0.1"></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" id="div_064f_79">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h1 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h1_064f_4">Effective<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h1></div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" id="div_064f_80">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h1 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h1_064f_5">Customers See Higher Success Rate<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h1></div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-skill-circle-item gdlr-core-item-pdlr gdlr-core-item-pdb  clearfix" id="div_064f_81">
+                                                    <div class="gdlr-core-skill-circle-main-content-wrap">
+                                                        <div class="gdlr-core-skill-circle-main-content gdlr-core-left" id="div_064f_82">
+                                                            <div class=" gdlr-core-skill-circle gdlr-core-js gdlr-core-skill-circle-align-left gdlr-core-skill-circle-size-custom" data-percent="20" data-width="200px" data-duration="1200" data-line-width="8" data-filled-color="#4275dc" data-filled-background="#3c4c6d" id="div_064f_83">
+                                                                <div class="gdlr-core-skill-circle-content gdlr-core-title-font">
+                                                                    <div class="gdlr-core-skill-circle-head" id="div_064f_84">20%</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-skill-circle-side-description">
+                                                            <div class="gdlr-core-skill-circle-side-description-title gdlr-core-skin-title" id="div_064f_85">Better Candidates</div>
+                                                            <div class="gdlr-core-skill-circle-side-description-text" id="div_064f_86">Increase in referral Hiring</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-skill-circle-item gdlr-core-item-pdlr gdlr-core-item-pdb  clearfix" id="div_064f_87">
+                                                    <div class="gdlr-core-skill-circle-main-content-wrap">
+                                                        <div class="gdlr-core-skill-circle-main-content gdlr-core-left" id="div_064f_88">
+                                                            <div class=" gdlr-core-skill-circle gdlr-core-js gdlr-core-skill-circle-align-left gdlr-core-skill-circle-size-custom" data-percent="37" data-width="200px" data-duration="1200" data-line-width="7" data-filled-color="#4e58d2" data-filled-background="#3c4c6d" id="div_064f_89">
+                                                                <div class="gdlr-core-skill-circle-content gdlr-core-title-font">
+                                                                    <div class="gdlr-core-skill-circle-head" id="div_064f_90">37%</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-skill-circle-side-description">
+                                                            <div class="gdlr-core-skill-circle-side-description-title gdlr-core-skin-title" id="div_064f_91">Faster</div>
+                                                            <div class="gdlr-core-skill-circle-side-description-text" id="div_064f_92">Faster time to hire</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gdlr-core-pbf-element">
+                                                <div class="gdlr-core-skill-circle-item gdlr-core-item-pdlr gdlr-core-item-pdb  clearfix">
+                                                    <div class="gdlr-core-skill-circle-main-content-wrap">
+                                                        <div class="gdlr-core-skill-circle-main-content gdlr-core-left" id="div_064f_93">
+                                                            <div class=" gdlr-core-skill-circle gdlr-core-js gdlr-core-skill-circle-align-left gdlr-core-skill-circle-size-custom" data-percent="60" data-width="200px" data-duration="1200" data-line-width="7" data-filled-color="#4275dc" data-filled-background="#3c4c6d" id="div_064f_94">
+                                                                <div class="gdlr-core-skill-circle-content gdlr-core-title-font">
+                                                                    <div class="gdlr-core-skill-circle-head" id="div_064f_95">60%</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="gdlr-core-skill-circle-side-description">
+                                                            <div class="gdlr-core-skill-circle-side-description-title gdlr-core-skin-title" id="div_064f_96">Lower Cost</div>
+                                                            <div class="gdlr-core-skill-circle-side-description-text" id="div_064f_97">Lower candidate acquisition cost</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                 
+                   
+                </div>
+            </div>
+			
+			
+			</br>
+            <footer>
+                <div class="apzo-footer-wrapper ">
+                    <div class="apzo-footer-container apzo-container clearfix">
+                       
+						
+						  <div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget apzo-widget">
+                                <h3 class="apzo-widget-title" style="text-align:left;">Telecom Services</h3><span class="clear"></span>
+                                <div class="menu-quick-links-container">
+                                    <ul id="menu-quick-links" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-full">
+                                        <li class="menu-item apzo-normal-menu"><a href="bulksms.html">Bulk SMS</a></li>
+										<li class="menu-item apzo-normal-menu"><a href="voicecall1.html">Voice Call</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="missedcall.html">Missed Call</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="ivr.html">IVR & Tollfree</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="website-designing.html">Website Designing</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="whatsapp.html">Whatsapp Messaging</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Mobile App Development</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+						
+						<div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget apzo-widget">
+                                <h3 class="apzo-widget-title" style="text-align:left;">Software Services</h3><span class="clear"></span>
+                                <div class="menu-quick-links-container">
+                                    <ul id="menu-quick-links" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-full">
+                                        <li class="menu-item apzo-normal-menu"><a href="#">E-commerce Software</a></li>
+										<li class="menu-item apzo-normal-menu"><a href="#">Voice Call Application</a></li>
+                                        <li class="menu-item apzo-normal-menu"><a href="#">SMS Aggregator Application</a></li>
+										<li class="menu-item apzo-normal-menu"><a href="#">Banking Management Software</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+						
+						    <div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget apzo-widget">
+                                <h3 class="apzo-widget-title" style="text-align:left;">Company</h3><span class="clear"></span>
+                                <div class="menu-quick-links-container">
+                                    <ul id="menu-quick-links" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-full" >
+                                        
+										<li class="menu-item apzo-normal-menu"><a href="#">Legal</a></li>
+										 <li class="menu-item apzo-normal-menu"><a href="#">Terms</a></li>
+										 <li class="menu-item apzo-normal-menu"><a href="#">Carrers</a></li>
+										  <li class="menu-item apzo-normal-menu"><a href="#">Privacy</a></li>
+										<li class="menu-item apzo-normal-menu" ><a href="about-us.html">About Us</a></li>
+                                        
+                                      
+                                       
+                                       
+                                       
+                                       
+                                        
+                                        <li class="menu-item apzo-normal-menu"><a href="#">Price Table</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="apzo-footer-column apzo-item-pdlr apzo-column-15">
+                            <div id="text-2" class="widget widget_text apzo-widget">
+                                <h3 class="apzo-widget-title" style="text-align:left;">Contact</h3><span class="clear"></span>
+                                <div class="textwidget">
+                                    <p><!--Mon &#8211; Sat : 10.00am &#8211; 7.00pm-->
+                                         J-325, Siddharth Elegance, <span class="gdlr-core-space-shortcode" id="span_064f_8"></span>
+                                        Nr. Old Chani Road <span class="gdlr-core-space-shortcode" id="span_064f_8"></span>
+                                        Vadodara, Gujarat <span class="gdlr-core-space-shortcode" id="span_064f_8"></span>
+                                        <br />
+                                        <i class="fa fa-phone" id="i_064f_22"></i> <a href="tel:9979952266">9979-952-266</a>
+                                        <br />
+                                        <span class="gdlr-core-space-shortcode" id="span_064f_9"></span>
+                                        <br />	
+                                        <i class="fa fa-envelope-o" id="i_064f_23"></i> <a href="mailto:info@vonvic.in"><span class="__cf_email__" data-cfemail="#">info@vonvic.in</span></a></p>
+											
+                                        <i class="fa fa-skype" id="i_064f_23"></i> <a href="https://www.skype.com/live:.cid.3c91cac211318f53"><span class="__cf_email__" data-cfemail="#">live:.cid.3c91cac211318f53</span></a></p>
+                                </div>
+                            </div>
+                        </div>
+						
+						
+						
+                    
+                     
+                    </div>
+                </div>
+                <div class="apzo-copyright-wrapper">
+                    <div class="apzo-copyright-container apzo-container clearfix" >
+                        <div class="apzo-copyright-left apzo-item-pdlr" >All Rights Reserved.</div>
+                      
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+
+    <script type='text/javascript' src='js/jquery/jquery.js'></script>
+    <script type='text/javascript' src='js/jquery/jquery-migrate.min.js'></script>
+    <script type='text/javascript' src='plugins/revslider/public/assets/js/revolution.tools.min.js'></script>
+    <script type='text/javascript' src='plugins/revslider/public/assets/js/rs6.min.js'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var SnazzyDataForSnazzyMaps = [];
+        SnazzyDataForSnazzyMaps = {
+            "id": 151,
+            "name": "Ultra Light with Labels",
+            "description": "Light Rust",
+            "url": "https:\/\/snazzymaps.com\/style\/151\/ultra-light-with-labels",
+            "imageUrl": "https:\/\/snazzy-maps-cdn.azureedge.net\/assets\/151-ultra-light-with-labels.png?v=20170626083737",
+            "json": "[{\"featureType\":\"water\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#e9e9e9\"},{\"lightness\":17}]},{\"featureType\":\"landscape\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#f5f5f5\"},{\"lightness\":20}]},{\"featureType\":\"road.highway\",\"elementType\":\"geometry.fill\",\"stylers\":[{\"color\":\"#ffffff\"},{\"lightness\":17}]},{\"featureType\":\"road.highway\",\"elementType\":\"geometry.stroke\",\"stylers\":[{\"color\":\"#ffffff\"},{\"lightness\":29},{\"weight\":0.2}]},{\"featureType\":\"road.arterial\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#ffffff\"},{\"lightness\":18}]},{\"featureType\":\"road.local\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#ffffff\"},{\"lightness\":16}]},{\"featureType\":\"poi\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#f5f5f5\"},{\"lightness\":21}]},{\"featureType\":\"poi.park\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#dedede\"},{\"lightness\":21}]},{\"elementType\":\"labels.text.stroke\",\"stylers\":[{\"visibility\":\"on\"},{\"color\":\"#ffffff\"},{\"lightness\":16}]},{\"elementType\":\"labels.text.fill\",\"stylers\":[{\"saturation\":36},{\"color\":\"#333333\"},{\"lightness\":40}]},{\"elementType\":\"labels.icon\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":\"transit\",\"elementType\":\"geometry\",\"stylers\":[{\"color\":\"#f2f2f2\"},{\"lightness\":19}]},{\"featureType\":\"administrative\",\"elementType\":\"geometry.fill\",\"stylers\":[{\"color\":\"#fefefe\"},{\"lightness\":20}]},{\"featureType\":\"administrative\",\"elementType\":\"geometry.stroke\",\"stylers\":[{\"color\":\"#fefefe\"},{\"lightness\":17},{\"weight\":1.2}]}]",
+            "views": 1000970,
+            "favorites": 2766,
+            "createdBy": {
+                "name": "Anonymous",
+                "url": null
+            },
+            "createdOn": "2014-11-04T03:01:33.197",
+            "tags": ["greyscale", "light"],
+            "colors": ["gray", "white"]
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='plugins/snazzy-maps/snazzymaps.js'></script>
+    <!--[if lt IE 9]>
+    <script type='text/javascript' src='https://demo.goodlayers.com/apzo/saasclean/js/html5.js'></script>
+    <![endif]-->
+    
+    <script type="text/javascript">
+        function setREVStartSize(t) {
+            try {
+                var h, e = document.getElementById(t.c).parentNode.offsetWidth;
+                if (e = 0 === e || isNaN(e) ? window.innerWidth : e, t.tabw = void 0 === t.tabw ? 0 : parseInt(t.tabw), t.thumbw = void 0 === t.thumbw ? 0 : parseInt(t.thumbw), t.tabh = void 0 === t.tabh ? 0 : parseInt(t.tabh), t.thumbh = void 0 === t.thumbh ? 0 : parseInt(t.thumbh), t.tabhide = void 0 === t.tabhide ? 0 : parseInt(t.tabhide), t.thumbhide = void 0 === t.thumbhide ? 0 : parseInt(t.thumbhide), t.mh = void 0 === t.mh || "" == t.mh || "auto" === t.mh ? 0 : parseInt(t.mh, 0), "fullscreen" === t.layout || "fullscreen" === t.l) h = Math.max(t.mh, window.innerHeight);
+                else {
+                    for (var i in t.gw = Array.isArray(t.gw) ? t.gw : [t.gw], t.rl) void 0 !== t.gw[i] && 0 !== t.gw[i] || (t.gw[i] = t.gw[i - 1]);
+                    for (var i in t.gh = void 0 === t.el || "" === t.el || Array.isArray(t.el) && 0 == t.el.length ? t.gh : t.el, t.gh = Array.isArray(t.gh) ? t.gh : [t.gh], t.rl) void 0 !== t.gh[i] && 0 !== t.gh[i] || (t.gh[i] = t.gh[i - 1]);
+                    var r, a = new Array(t.rl.length),
+                        n = 0;
+                    for (var i in t.tabw = t.tabhide >= e ? 0 : t.tabw, t.thumbw = t.thumbhide >= e ? 0 : t.thumbw, t.tabh = t.tabhide >= e ? 0 : t.tabh, t.thumbh = t.thumbhide >= e ? 0 : t.thumbh, t.rl) a[i] = t.rl[i] < window.innerWidth ? 0 : t.rl[i];
+                    for (var i in r = a[0], a) r > a[i] && 0 < a[i] && (r = a[i], n = i);
+                    var d = e > t.gw[n] + t.tabw + t.thumbw ? 1 : (e - (t.tabw + t.thumbw)) / t.gw[n];
+                    h = t.gh[n] * d + (t.tabh + t.thumbh)
+                }
+                void 0 === window.rs_init_css && (window.rs_init_css = document.head.appendChild(document.createElement("style"))), document.getElementById(t.c).height = h, window.rs_init_css.innerHTML += "#" + t.c + "_wrapper { height: " + h + "px }"
+            } catch (t) {
+                console.log("Failure at Presize of Slider:" + t)
+            }
+        };
+    </script>
+    <script type="text/javascript">
+        if (typeof revslider_showDoubleJqueryError === "undefined") {
+            function revslider_showDoubleJqueryError(sliderID) {
+                var err = "<div class='rs_error_message_box'>";
+                err += "<div class='rs_error_message_oops'>Oops...</div>";
+                err += "<div class='rs_error_message_content'>";
+                err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+                err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+                err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+                err += "</div>";
+                err += "</div>";
+                jQuery(sliderID).show().html(err);
+            }
+        }
+    </script>
+    <script type='text/javascript' src='plugins/goodlayers-core/plugins/script.js'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var gdlr_core_pbf = {
+            "admin": "",
+            "video": {
+                "width": "640",
+                "height": "360"
+            },
+            "ajax_url": "#"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='plugins/goodlayers-core/include/js/page-builder.js'></script>
+    <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
+    <script type='text/javascript' src='js/jquery.mmenu.js'></script>
+    <script type='text/javascript' src='js/jquery.superfish.js'></script>
+    <script type='text/javascript' src='js/script-core.js'></script>
+
+    <script type="text/javascript">
+        setREVStartSize({
+            c: 'rev_slider_1_1',
+            rl: [1240, 1240, 778, 480],
+            el: [835, 835, 660, 620],
+            gw: [1240, 1240, 778, 520],
+            gh: [835, 835, 660, 620],
+            layout: 'fullwidth',
+            mh: "0"
+        });
+        var revapi1,
+            tpj;
+        jQuery(function() {
+            tpj = jQuery;
+            if (tpj("#rev_slider_1_1").revolution == undefined) {
+                revslider_showDoubleJqueryError("#rev_slider_1_1");
+            } else {
+                revapi1 = tpj("#rev_slider_1_1").show().revolution({
+                    jsFileLocation: "plugins/revslider/public/assets/js/",
+                    sliderLayout: "fullwidth",
+                    visibilityLevels: "1240,1240,778,480",
+                    gridwidth: "1240,1240,778,520",
+                    gridheight: "835,835,660,620",
+                    minHeight: "",
+                    editorheight: "835,690,660,620",
+                    responsiveLevels: "1240,1240,778,480",
+                    disableProgressBar: "on",
+                    navigation: {
+                        mouseScrollNavigation: false,
+                        onHoverStop: false,
+                        bullets: {
+                            enable: true,
+                            tmp: "<span class=\"tp-bullet-inner\"></span>",
+                            style: "uranus",
+                            v_offset: 44,
+                            space: 9
+                        }
+                    },
+                    fallbacks: {
+                        allowHTML5AutoPlayOnAndroid: true
+                    },
+                });
+            }
+
+        });
+    </script>
+    <script>
+        var htmlDivCss = unescape("%23rev_slider_1_1_wrapper%20.uranus%20.tp-bullet%7B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C255%2C255%2C0%29%3B%0A%20%20-webkit-transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20transition%3A%20box-shadow%200.3s%20ease%3B%0A%20%20background%3Atransparent%3B%0A%20%20width%3A15px%3B%0A%20%20height%3A15px%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.uranus%20.tp-bullet.selected%2C%0A%23rev_slider_1_1_wrapper%20.uranus%20.tp-bullet%3Ahover%20%7B%0A%20%20box-shadow%3A%200%200%200%202px%20rgba%28255%2C255%2C255%2C1%29%3B%0A%20%20border%3Anone%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background%3Atransparent%3B%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.uranus%20.tp-bullet-inner%20%7B%0A%20%20-webkit-transition%3A%20background-color%200.3s%20ease%2C%20-webkit-transform%200.3s%20ease%3B%0A%20%20transition%3A%20background-color%200.3s%20ease%2C%20transform%200.3s%20ease%3B%0A%20%20top%3A%200%3B%0A%20%20left%3A%200%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20outline%3A%20none%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background-color%3A%20rgba%28255%2C255%2C255%2C0%29%3B%0A%20%20background-color%3A%20rgba%28255%2C255%2C255%2C0.3%29%3B%0A%20%20text-indent%3A%20-999em%3B%0A%20%20cursor%3A%20pointer%3B%0A%20%20position%3A%20absolute%3B%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.uranus%20.tp-bullet.selected%20.tp-bullet-inner%2C%0A%23rev_slider_1_1_wrapper%20.uranus%20.tp-bullet%3Ahover%20.tp-bullet-inner%7B%0A%20transform%3A%20scale%280.4%29%3B%0A%20-webkit-transform%3A%20scale%280.4%29%3B%0A%20background-color%3Argba%28255%2C255%2C255%2C1%29%3B%0A%7D%0A");
+        var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+        if (htmlDiv) {
+            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+        } else {
+            var htmlDiv = document.createElement('div');
+            htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+            document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+        }
+    </script>
+    <script>
+        var htmlDivCss = unescape("%0A%0A");
+        var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+        if (htmlDiv) {
+            htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+        } else {
+            var htmlDiv = document.createElement('div');
+            htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+            document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+        }
+    </script>
+</body>
+
+<!-- Mirrored from max-themes.net/demos/apzo/apzo/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Dec 2021 19:09:42 GMT -->
+</html>
